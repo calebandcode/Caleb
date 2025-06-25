@@ -8,12 +8,6 @@ If it can be coded, wired, or reasoned about — I'm interested.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calebandcode/calebandcode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calebandcode/calebandcode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/calebandcode/calebandcode/output/pacman-contribution-graph.svg">
-</picture>
-
 ## 🧰 Tech I Use (and love)
 
 From low-level logic to cloud deployments, these are the tools in my belt:
