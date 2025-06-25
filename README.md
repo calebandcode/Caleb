@@ -1,16 +1,18 @@
 # Hey there 👋 I'm Caleb
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=735&lines=Backend+Focused+Full-Stack+Developer;Robotics+and+Embedded+Systems+Explorer;I+build+scalable+systems+and+smart+interfaces" alt="Typing SVG" />
+</p>
 
-**Backend-Focused Full-Stack Developer | Robotics Explorer | Builder of Ideas That Scale**
+I’m a backend-first full-stack developer who enjoys building systems that scale and tools that actually solve problems.  
+Every now and then, I dip my feet into robotics, embedded systems, and smart interfaces — because software should move beyond screens.
 
-I'm a full-stack developer with a backend-first mindset — I care deeply about building reliable systems, clean architecture, and tools that solve real problems. When I'm not refining APIs or structuring databases, I'm exploring robotics, embedded systems, or experimenting with smart interfaces that blend the physical and digital worlds.
-
-If it can be coded, wired, or reasoned about — I'm interested.
+If it runs on logic or circuits, I’m probably poking at it.
 
 ---
 
-## 🧰 Tech I Use (and love)
+## 🧰 Tech I Use (and like a lot)
 
-From low-level logic to cloud deployments, these are the tools in my belt:
+From low-level code to cloud-side ops, here’s what’s in my toolbox:
 
 ### 🧠 Languages
 <p align="left">
@@ -49,30 +51,12 @@ From low-level logic to cloud deployments, these are the tools in my belt:
 
 ---
 
-## 🔭 Current Projects
-
-- **LingoStory** — Learn languages by *speaking*. A story-driven, voice-first learning experience with CEFR-aligned progression and AI-powered roleplay.
-- **My Custom Game Engine** — Built from scratch, component-based like React, for creating interactive VR/AR games powered by AI.
-- **AI Debugging Assistant** — Not just fixing bugs, but teaching developers *why* they happened.
-- **Baymax-Inspired Robotics** — Building smart robotic systems that can *understand* humans, not just follow instructions.
-
----
-
 ## 🤖 What I'm Exploring
 
-- Robotics + Embedded Systems  
+- Robotics & embedded systems  
 - Programming language design (compilers, interpreters)  
-- Full-stack SDKs for AI tools  
-- Voice interfaces and assistant intelligence  
-
----
-
-## 📫 Let’s Connect
-
-Want to collaborate, brainstorm, or build something weird and awesome?
-
-**Find me here:**  
-[Twitter](https://twitter.com/calebakomaye) · [LinkedIn](https://linkedin.com/in/calebakomaye) · Portfolio coming soon.
+- SDK design for AI & assistants  
+- Smarter voice-based UIs  
 
 ---
 
